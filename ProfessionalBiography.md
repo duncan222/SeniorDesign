@@ -45,4 +45,6 @@
 
 ## Interests For Design Project:
 
-    For the senior design project I would like to work on robotics or maybe even a web application. However, I am still unsure what it is that I am looking for with this project so that could easily change.
+    For the senior design project I would like to work on robotics or maybe even a
+    web application. However, I am still unsure what it is that I am looking for
+    with this project so that could easily change.
