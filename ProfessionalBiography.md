@@ -1,8 +1,9 @@
 # Professional Biography
 
-## Contact Information:
+## Contact/Personal Information:
 
-    - Duncan Collins
+    - Name: Duncan Collins
+    - Major: Computer Science
     - Email: collidu@mail.uc.edu
 
 ## Co-op Experiences:
